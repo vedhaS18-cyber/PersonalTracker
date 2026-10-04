@@ -45,3 +45,22 @@ receipts or databases. These checks are not an exhaustive security or legal audi
 
 No app rebuild, emulator run or phone installation was performed for this public
 distribution. The app's existing behavior and device-testing limits are unchanged.
+
+## Presentation and repository rename
+
+On **5 October 2026**, the public repository was renamed from
+`personal-tracker-downloads` to `PersonalTracker`. The README now includes a
+White Frost banner, an Android download button and a concise feature overview.
+Installation, privacy, support and signing information remains available.
+
+- The published README was visually checked on GitHub while signed out.
+- All four release assets were downloaded anonymously from the renamed repository
+  and matched the byte counts and checksums above.
+- The old repository URL and old direct APK link both redirected successfully.
+- The development repository remained private. An anonymous repository listing
+  showed only this public downloads repository.
+- Actions remained disabled; secret scanning, push protection, private vulnerability
+  reporting and main-branch protection remained enabled. The release stayed immutable.
+
+The APK and release assets were not changed. The immutable third-party notice ZIP
+still contains the original privacy-document URL, which continues to redirect.
