@@ -3,7 +3,7 @@
 ## Reporting a vulnerability privately
 
 Please use
-[GitHub's private vulnerability reporting form](https://github.com/vedhaS18-cyber/personal-tracker-downloads/security/advisories/new)
+[GitHub's private vulnerability reporting form](https://github.com/vedhaS18-cyber/PersonalTracker/security/advisories/new)
 to report a suspected security problem. You will need a GitHub account. Reports
 submitted through this form are private to the repository's security reporting
 process until deliberately published.
@@ -22,7 +22,7 @@ passwords or signing keys.
 ## Supported releases
 
 Security fixes are intended for the latest release on this repository's
-[Releases page](https://github.com/vedhaS18-cyber/personal-tracker-downloads/releases/latest).
+[Releases page](https://github.com/vedhaS18-cyber/PersonalTracker/releases/latest).
 Older versions do not have a separate maintenance commitment. Reports are handled
 on a best-effort basis; a specific response or fix timeline is not guaranteed.
 

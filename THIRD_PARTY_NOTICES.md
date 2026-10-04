@@ -52,7 +52,7 @@ which incorporate the [Google APIs Terms of Service](https://developers.google.c
 Applicable Google Play services terms also remain in force. These components are
 not relicensed under the common Apache licence above. Google processes scanner
 usage and performance metrics; see the app's
-[privacy information](https://github.com/vedhaS18-cyber/personal-tracker-downloads/blob/main/PRIVACY.md).
+[privacy information](https://github.com/vedhaS18-cyber/PersonalTracker/blob/main/PRIVACY.md).
 
 ## Public Suffix List source
 

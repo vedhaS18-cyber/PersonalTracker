@@ -1,45 +1,67 @@
-# Personal Tracker — Android downloads
+<p align="center">
+  <img src="assets/personal-tracker-header.svg" alt="Personal Tracker — A little context for every payment." width="100%">
+</p>
 
-Remember what you spent money on, keep receipts and prepare expense claims. The app appears on your phone as **Expense Tracker**. Spending and Claims have separate records.
+<p align="center">
+  Remember your spending. Organise your receipts. Prepare your claims.
+</p>
 
-**[Download v1.5.0 APK](https://github.com/vedhaS18-cyber/personal-tracker-downloads/releases/download/v1.5.0/personal-tracker-v1.5.0.apk)** · [Latest release](https://github.com/vedhaS18-cyber/personal-tracker-downloads/releases/latest) · [Privacy](PRIVACY.md) · [Help](SUPPORT.md)
+<p align="center">
+  <a href="https://github.com/vedhaS18-cyber/PersonalTracker/releases/download/v1.5.0/personal-tracker-v1.5.0.apk"><img src="assets/download-android.svg" alt="Download for Android — v1.5.0" width="272" height="52"></a>
+</p>
 
-Anyone can download without a GitHub account. This repository contains public downloads and user documentation; the app's development repository and source history remain private. GitHub's automatic “Source code” archives contain this documentation, not the Android app source.
+<p align="center">
+  <strong>Android 8.0+</strong> &nbsp; · &nbsp; <strong>No account required</strong> &nbsp; · &nbsp; <strong>Records on your device</strong>
+</p>
 
-## Install or update
+<p align="center">
+  <a href="https://github.com/vedhaS18-cyber/PersonalTracker/releases/latest">Release notes</a> &nbsp; · &nbsp;
+  <a href="PRIVACY.md">Privacy</a> &nbsp; · &nbsp;
+  <a href="SUPPORT.md">Help &amp; support</a>
+</p>
 
-1. Use an Android phone running **Android 8.0 or newer**. Download the `.apk` file above, not the source-code ZIP or TAR archive.
-2. Open the APK. If Android asks, allow your browser or file manager to install this app. You can turn that installation permission off afterwards. Keep Play Protect enabled.
-3. Open **Expense Tracker**. For automatic payment capture, enable notification access from the app's Spending settings and select the payment-alert apps you want it to check. This is optional; manual entry works without capture access.
-4. For future updates, install the newer official APK over the existing app. **Do not uninstall first:** uninstalling or clearing storage removes local records. Use the separate Spending and Claims backup options before changing phones.
+## Every payment has a purpose
 
-If Android says the app conflicts with an existing installation, stop and read [installation help](SUPPORT.md). Do not delete your current installation to work around the warning.
+A bank alert remembers the amount. Personal Tracker helps you remember **what it was for**—lunch, a journey, groceries or something for work. Keep your personal spending and expense claims in one app, with separate records for each.
 
-## What it does
+| Everyday spending | Receipts & claims |
+| :--- | :--- |
+| Capture recognised payment notifications from apps you select. | Collect image and PDF receipts in organised claims. |
+| Add a purpose now, from a notification, or during a later review. | Scan up to 10 pages in one session, with an adjustable crop. |
+| Filter by bank and review spending across Today, This month and All time. | Crop existing gallery photos; keep Original or opt into Filters. |
+| Add cash payments and missed expenses manually. | Generate claim documents and keep a separate Claims backup. |
 
-- Saves recognised payment notifications from selected apps, including bank alerts shown by Messages and Gmail; it does not read your SMS or email inbox.
-- Lets you add a purpose, review payments, filter by bank and record expenses manually.
-- Organises receipts in independent expense claims and generates claim documents.
-- Accepts image and PDF receipts. The optional scanner crops receipts, supports up to 10 pages per session and can crop gallery photos. Original is the default, with Filters available as an opt-in.
+The optional scanner uses Google Play services and may download its module on first use. Ordinary camera capture and direct Gallery attachment are also available. [How scanning handles your data →](PRIVACY.md#receipt-scanning)
 
-The optional scanner needs compatible Google Play services and may download its module on first use. Ordinary camera capture and direct Gallery attachment remain available. Read the [scanner privacy information](PRIVACY.md) before using it.
+## Get started
 
-## Before relying on your records
+1. **[Download the Android APK](https://github.com/vedhaS18-cyber/PersonalTracker/releases/download/v1.5.0/personal-tracker-v1.5.0.apk).** You don't need a GitHub account. Choose the `.apk`, not a “Source code” archive.
+2. **Install and open Expense Tracker.** That's the name currently shown on your phone. If Android asks, allow installation from your browser or file manager; you can turn that permission off afterwards. Keep Play Protect enabled.
+3. **Choose how to record spending.** Use manual entry, or enable notification access in Spending settings and select the apps whose payment alerts you want captured.
 
-Notification capture depends on what Android and the selected apps deliver. Alerts can be incomplete, late or missed, including Gmail alerts. Check important totals against your bank/card records and correct missing entries manually. This app does not connect to your bank, make payments or verify reimbursement eligibility.
+**Already using the app?** Install newer official versions over it. **Do not uninstall or clear storage first**—that removes local records. Back up Spending and Claims separately before changing phones. If you see an installation conflict, [read the help page](SUPPORT.md#installation-messages).
 
-Records are kept on your device. The app has no account-based recovery service. Exported backups contain financial information and are not password-encrypted by this app; choose their location carefully. See [privacy and deletion](PRIVACY.md).
+## Your records, with clear limits
 
-This is a GitHub-distributed build, not a Google Play release. It retains the existing preview signing identity so current users can update without losing their installation. Its debugging flag is off. Permanent Play Store signing and any migration plan remain separate work.
+- **No bank connection.** The app reads selected notifications; it does not read your SMS or email inbox or ask for your bank login.
+- **Local records.** There is no app account or app server. The optional Google scanner has its own component downloads and usage/performance metrics, explained in [Privacy](PRIVACY.md).
+- **You stay in control.** Review, edit, export or delete your records. Exported backups contain financial information and are not password-encrypted by this app. Keep them somewhere you trust.
+- **Check important totals.** Notification alerts—including Gmail alerts—can be incomplete, delayed or missed. Compare records with your bank/card statements and add missing entries manually.
 
-## Verify the download
+## Downloads you can verify
 
-The release includes the APK, a SHA-256 checksum, a verification record and a third-party licence/notice ZIP accompanying the app. [Verification instructions and release identity](docs/verification.md) explain how to compare them. Download only from this repository's Releases page; a renamed or modified copy elsewhere is not an official update.
+**Current version: v1.5.0** · Built 20 September 2026 · Publicly available since 5 October 2026
 
-The APK was built on 20 September 2026. Public distribution began on 5 October 2026 using identical bytes. See the [release notes](CHANGELOG.md) and [testing limits](docs/verification.md).
+Each release includes the signed APK, its SHA-256 checksum, a verification record and accompanying third-party licence notices. [Verify your download →](docs/verification.md)
 
-## Help and security reports
+This is a GitHub-distributed build using the existing preview signing identity, with debugging disabled. It is not a Google Play release. Permanent Play Store signing and any migration plan remain separate work. The app's development repository stays private; GitHub's “Source code” archives contain this page's documentation, not the Android source.
 
-Use [Help](SUPPORT.md) for installation and non-sensitive bug reports. Report security problems through [private vulnerability reporting](https://github.com/vedhaS18-cyber/personal-tracker-downloads/security/advisories/new), not a public issue. Never post real bank alerts, receipts, account details or backup files.
+---
 
-The app source is not offered under an open-source licence by this repository. [Third-party components retain their own licences and terms](THIRD_PARTY_NOTICES.md); their notices accompany the APK in the release's notice ZIP. Public availability does not imply that modified copies are official or endorsed.
+**Need a hand?** [Installation help & bug reports](SUPPORT.md) · [Suggest an improvement](https://github.com/vedhaS18-cyber/PersonalTracker/issues/new/choose)
+
+**Found a security issue?** [Report it privately](https://github.com/vedhaS18-cyber/PersonalTracker/security/advisories/new). Never post real bank alerts, receipts, account details or backups in public issues.
+
+[Privacy & deletion](PRIVACY.md) · [Release history](CHANGELOG.md) · [Third-party notices](THIRD_PARTY_NOTICES.md) · [Publication checks](docs/publication.md)
+
+The app source is not offered under an open-source licence by this repository. Third-party components retain their own licences and terms. Modified copies are not official updates.

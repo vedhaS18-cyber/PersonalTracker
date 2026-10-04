@@ -111,7 +111,7 @@ them. Copies you have already shared cannot be recalled by Personal Tracker.
 ## Questions and reports
 
 For ordinary questions, use the
-[public issue tracker](https://github.com/vedhaS18-cyber/personal-tracker-downloads/issues).
+[public issue tracker](https://github.com/vedhaS18-cyber/PersonalTracker/issues).
 Anything posted there is public. Do not post real financial records, notification
 screenshots, receipts, account numbers or other personal information. Use invented
 examples or carefully redacted details.

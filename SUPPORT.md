@@ -7,7 +7,7 @@ through GitHub, not Google Play; it is not evidence of Google's approval.
 ## Before reporting a problem
 
 1. Check that you are using the latest version on the
-   [Releases page](https://github.com/vedhaS18-cyber/personal-tracker-downloads/releases/latest).
+   [Releases page](https://github.com/vedhaS18-cyber/PersonalTracker/releases/latest).
 2. If you already have this app installed, install the matching update over it.
    Do not uninstall to resolve an update problem without first backing up both
    Spending and Claims.
@@ -32,7 +32,7 @@ uninstall or clear storage as a workaround; that can delete local records.
 
 ## Report an ordinary bug or request a feature
 
-[Open an issue](https://github.com/vedhaS18-cyber/personal-tracker-downloads/issues/new/choose)
+[Open an issue](https://github.com/vedhaS18-cyber/PersonalTracker/issues/new/choose)
 with:
 
 - App version, phone model and Android version.
