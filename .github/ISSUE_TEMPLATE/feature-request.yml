@@ -1,0 +1,14 @@
+name: Feature request
+description: Suggest an improvement without sharing personal financial information.
+title: "[Suggestion]: "
+body:
+  - type: markdown
+    attributes:
+      value: This request is public. Use invented examples and do not include financial records or personal information.
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: What would you like to improve?
+      description: Describe the problem and how the proposed change would help.
+    validations:
+      required: true

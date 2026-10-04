@@ -1,0 +1,14 @@
+# Public Git history contains documentation only. APKs belong in Releases.
+*.apk
+*.aab
+*.apks
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.pem
+.env
+.env.*
+local.properties
+release-assets/
+verification-downloads/

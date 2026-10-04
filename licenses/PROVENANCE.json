@@ -1,0 +1,182 @@
+[
+  {
+    "component": "jakarta.inject:jakarta.inject-api:2.0.1",
+    "artifact": "jakarta.inject-api-2.0.1.jar",
+    "entry": "META-INF/LICENSE.txt",
+    "file": "jakarta.inject-api-2.0.1-LICENSE.txt"
+  },
+  {
+    "component": "jakarta.inject:jakarta.inject-api:2.0.1",
+    "artifact": "jakarta.inject-api-2.0.1.jar",
+    "entry": "META-INF/NOTICE.md",
+    "file": "jakarta.inject-api-2.0.1-NOTICE.md"
+  },
+  {
+    "component": "com.squareup.okhttp3:okhttp:4.12.0",
+    "artifact": "okhttp-4.12.0.jar",
+    "entry": "okhttp3/internal/publicsuffix/NOTICE",
+    "file": "okhttp-4.12.0-NOTICE.txt"
+  },
+  {
+    "component": "org.apache.poi:poi-ooxml:5.5.1",
+    "artifact": "poi-ooxml-5.5.1.jar",
+    "entry": "META-INF/LICENSE",
+    "file": "poi-ooxml-5.5.1-LICENSE.txt"
+  },
+  {
+    "component": "org.apache.poi:poi-ooxml:5.5.1",
+    "artifact": "poi-ooxml-5.5.1.jar",
+    "entry": "META-INF/NOTICE",
+    "file": "poi-ooxml-5.5.1-NOTICE.txt"
+  },
+  {
+    "component": "org.apache.poi:poi:5.5.1",
+    "artifact": "poi-5.5.1.jar",
+    "entry": "META-INF/LICENSE",
+    "file": "poi-5.5.1-LICENSE.txt"
+  },
+  {
+    "component": "org.apache.poi:poi:5.5.1",
+    "artifact": "poi-5.5.1.jar",
+    "entry": "META-INF/NOTICE",
+    "file": "poi-5.5.1-NOTICE.txt"
+  },
+  {
+    "component": "commons-codec:commons-codec:1.20.0",
+    "artifact": "commons-codec-1.20.0.jar",
+    "entry": "META-INF/LICENSE.txt",
+    "file": "commons-codec-1.20.0-LICENSE.txt"
+  },
+  {
+    "component": "commons-codec:commons-codec:1.20.0",
+    "artifact": "commons-codec-1.20.0.jar",
+    "entry": "META-INF/NOTICE.txt",
+    "file": "commons-codec-1.20.0-NOTICE.txt"
+  },
+  {
+    "component": "org.apache.commons:commons-collections4:4.5.0",
+    "artifact": "commons-collections4-4.5.0.jar",
+    "entry": "META-INF/LICENSE.txt",
+    "file": "commons-collections4-4.5.0-LICENSE.txt"
+  },
+  {
+    "component": "org.apache.commons:commons-collections4:4.5.0",
+    "artifact": "commons-collections4-4.5.0.jar",
+    "entry": "META-INF/NOTICE.txt",
+    "file": "commons-collections4-4.5.0-NOTICE.txt"
+  },
+  {
+    "component": "org.apache.commons:commons-math3:3.6.1",
+    "artifact": "commons-math3-3.6.1.jar",
+    "entry": "META-INF/LICENSE.txt",
+    "file": "commons-math3-3.6.1-LICENSE.txt"
+  },
+  {
+    "component": "org.apache.commons:commons-math3:3.6.1",
+    "artifact": "commons-math3-3.6.1.jar",
+    "entry": "META-INF/NOTICE.txt",
+    "file": "commons-math3-3.6.1-NOTICE.txt"
+  },
+  {
+    "component": "commons-io:commons-io:2.21.0",
+    "artifact": "commons-io-2.21.0.jar",
+    "entry": "META-INF/LICENSE.txt",
+    "file": "commons-io-2.21.0-LICENSE.txt"
+  },
+  {
+    "component": "commons-io:commons-io:2.21.0",
+    "artifact": "commons-io-2.21.0.jar",
+    "entry": "META-INF/NOTICE.txt",
+    "file": "commons-io-2.21.0-NOTICE.txt"
+  },
+  {
+    "component": "org.apache.logging.log4j:log4j-api:2.25.5",
+    "artifact": "log4j-api-2.25.5.jar",
+    "entry": "META-INF/DEPENDENCIES",
+    "file": "log4j-api-2.25.5-DEPENDENCIES.txt"
+  },
+  {
+    "component": "org.apache.logging.log4j:log4j-api:2.25.5",
+    "artifact": "log4j-api-2.25.5.jar",
+    "entry": "META-INF/LICENSE",
+    "file": "log4j-api-2.25.5-LICENSE.txt"
+  },
+  {
+    "component": "org.apache.logging.log4j:log4j-api:2.25.5",
+    "artifact": "log4j-api-2.25.5.jar",
+    "entry": "META-INF/NOTICE",
+    "file": "log4j-api-2.25.5-NOTICE.txt"
+  },
+  {
+    "component": "org.apache.poi:poi-ooxml-lite:5.5.1",
+    "artifact": "poi-ooxml-lite-5.5.1.jar",
+    "entry": "META-INF/LICENSE",
+    "file": "poi-ooxml-lite-5.5.1-LICENSE.txt"
+  },
+  {
+    "component": "org.apache.poi:poi-ooxml-lite:5.5.1",
+    "artifact": "poi-ooxml-lite-5.5.1.jar",
+    "entry": "META-INF/NOTICE",
+    "file": "poi-ooxml-lite-5.5.1-NOTICE.txt"
+  },
+  {
+    "component": "org.apache.xmlbeans:xmlbeans:5.3.0",
+    "artifact": "xmlbeans-5.3.0.jar",
+    "entry": "META-INF/LICENSE.txt",
+    "file": "xmlbeans-5.3.0-LICENSE.txt"
+  },
+  {
+    "component": "org.apache.xmlbeans:xmlbeans:5.3.0",
+    "artifact": "xmlbeans-5.3.0.jar",
+    "entry": "META-INF/NOTICE.txt",
+    "file": "xmlbeans-5.3.0-NOTICE.txt"
+  },
+  {
+    "component": "org.apache.commons:commons-compress:1.28.0",
+    "artifact": "commons-compress-1.28.0.jar",
+    "entry": "META-INF/LICENSE.txt",
+    "file": "commons-compress-1.28.0-LICENSE.txt"
+  },
+  {
+    "component": "org.apache.commons:commons-compress:1.28.0",
+    "artifact": "commons-compress-1.28.0.jar",
+    "entry": "META-INF/NOTICE.txt",
+    "file": "commons-compress-1.28.0-NOTICE.txt"
+  },
+  {
+    "component": "org.apache.commons:commons-lang3:3.18.0",
+    "artifact": "commons-lang3-3.18.0.jar",
+    "entry": "META-INF/LICENSE.txt",
+    "file": "commons-lang3-3.18.0-LICENSE.txt"
+  },
+  {
+    "component": "org.apache.commons:commons-lang3:3.18.0",
+    "artifact": "commons-lang3-3.18.0.jar",
+    "entry": "META-INF/NOTICE.txt",
+    "file": "commons-lang3-3.18.0-NOTICE.txt"
+  },
+  {
+    "component": "com.google.android.gms:play-services-mlkit-document-scanner:16.0.0",
+    "artifact": "play-services-mlkit-document-scanner-16.0.0.aar",
+    "entry": "third_party_licenses.txt",
+    "file": "google-document-scanner-16.0.0-third_party_licenses.txt"
+  },
+  {
+    "component": "com.google.android.gms:play-services-mlkit-document-scanner:16.0.0",
+    "artifact": "play-services-mlkit-document-scanner-16.0.0.aar",
+    "entry": "third_party_licenses.json",
+    "file": "google-document-scanner-16.0.0-third_party_licenses.json"
+  },
+  {
+    "component": "Inter font",
+    "artifact": "packaged asset",
+    "entry": "assets/licenses/inter-LICENSE.txt",
+    "file": "Inter-OFL-1.1.txt"
+  },
+  {
+    "component": "Apache-2.0 common text",
+    "artifact": "annotation-jvm-1.9.1.jar",
+    "entry": "META-INF/androidx/annotation/annotation/LICENSE.txt",
+    "file": "Apache-2.0.txt"
+  }
+]
